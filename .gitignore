@@ -1,0 +1,31 @@
+# Dependency directories
+node_modules/
+*/node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment variables
+.env
+*/.env
+client/.env
+server/.env
+
+# Build directories
+build/
+client/build/
+server/build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# IDE specific files
+.vscode/
+.idea/
